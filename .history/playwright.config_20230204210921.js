@@ -1,1 +1,0 @@
-const {devices} = require
